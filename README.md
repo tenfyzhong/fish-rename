@@ -1,4 +1,7 @@
 # fish-rename
+[![GitHub tag](https://img.shields.io/github/tag/tenfyzhong/fish-rename.svg)](https://github.com/tenfyzhong/fish-rename/tags)
+[![CI](https://github.com/tenfyzhong/fish-rename/actions/workflows/test.yml/badge.svg)](https://github.com/tenfyzhong/fish-rename/actions/workflows/test.yml)
+
 A plugin to rename files.
 
 # Usage
